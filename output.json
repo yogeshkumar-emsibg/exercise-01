@@ -1,0 +1,16 @@
+{"capitals": [
+  {
+    "capital": "Austin",
+    "state": "Texas"
+  },
+  {
+    "capital": "Madison",
+    "state": "Wisconsin"
+  },
+  {
+    "capital": "Phoenix",
+    "state": "Arizona"
+  }
+], "Summary": {
+  "numberOfCapitals": 3
+}}
